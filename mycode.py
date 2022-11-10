@@ -1,3 +1,4 @@
+# Code produces random two characters every time it runs.
 import random
 
 #A function do shuffle all the characters of a string
