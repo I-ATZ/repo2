@@ -1,4 +1,4 @@
-# Code produces random two characters every time it runs.
+# Code produces random two characters every time it runs and thi si ll be implementing in my Python Project that I am working on.
 import random
 
 #A function do shuffle all the characters of a string
